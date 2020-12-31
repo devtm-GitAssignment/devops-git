@@ -1,4 +1,6 @@
 Git Assignment1
+<<<<<<< HEAD
 this is feature1
+=======
 this is feature2
-   
+>>>>>>> f2
